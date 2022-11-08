@@ -1,0 +1,8 @@
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/Service/CrimeService.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/repository/CrimeRepository.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/repository/PersonRepository.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/model/Person.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/Neo4jApplication.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/model/Crime.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/Controller/CrimeController.java
+/home/mbentancur/mis-datos/repositorios/mbentancur/neo4j/src/main/java/com/example/neo4j/model/Officer.java

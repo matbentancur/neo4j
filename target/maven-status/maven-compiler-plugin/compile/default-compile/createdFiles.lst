@@ -1,0 +1,8 @@
+com/example/neo4j/Controller/CrimeController.class
+com/example/neo4j/repository/CrimeRepository.class
+com/example/neo4j/model/Crime.class
+com/example/neo4j/Neo4jApplication.class
+com/example/neo4j/model/Person.class
+com/example/neo4j/model/Officer.class
+com/example/neo4j/repository/PersonRepository.class
+com/example/neo4j/Service/CrimeService.class
